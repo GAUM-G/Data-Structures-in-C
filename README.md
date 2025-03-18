@@ -6,4 +6,6 @@ Evaluation of Postfix,
 Paranthesis Checker,
 Circular Queue,
 Linked List,
-Circular Linked List
+Circular Linked List,
+Stack Using Linked List,
+Queue Using Linked List,
