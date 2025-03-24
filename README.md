@@ -12,4 +12,4 @@ Stack Using Linked List,
 Queue Using Linked List,
 Binary Search Tree,
 Depth First Search,
-Breadth First Searchs
+Breadth First Search
